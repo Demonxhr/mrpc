@@ -1,0 +1,8 @@
+15:26:22 => [error] first log message!
+15:26:22 => [error] /home/aa/chat/mrpc/example/callee/friendservice.cc:main:44
+15:26:22 => [info] service_name:FriendServiceRpc
+15:26:22 => [info] method_name:GetFriendList
+15:42:11 => [error] first log message!
+15:42:11 => [error] /home/aa/chat/mrpc/example/callee/friendservice.cc:main:44
+15:42:11 => [info] service_name:FriendServiceRpc
+15:42:11 => [info] method_name:GetFriendList

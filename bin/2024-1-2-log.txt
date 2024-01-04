@@ -1,0 +1,4 @@
+23:58:10 => first log message!
+23:58:10 => /home/aa/chat/mrpc/example/callee/friendservice.cc:main:44
+23:59:31 => first log message!
+23:59:31 => /home/aa/chat/mrpc/example/callee/friendservice.cc:main:44

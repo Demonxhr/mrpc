@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/mrpcapplication.cc.o -c /home/aa/chat/mrpc/src/mrpcapplication.cc",
+  "file": "/home/aa/chat/mrpc/src/mrpcapplication.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/mrpcconfig.cc.o -c /home/aa/chat/mrpc/src/mrpcconfig.cc",
+  "file": "/home/aa/chat/mrpc/src/mrpcconfig.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/rpcheader.pb.cc.o -c /home/aa/chat/mrpc/src/rpcheader.pb.cc",
+  "file": "/home/aa/chat/mrpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/rpcprovider.cc.o -c /home/aa/chat/mrpc/src/rpcprovider.cc",
+  "file": "/home/aa/chat/mrpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/mrpcchannel.cc.o -c /home/aa/chat/mrpc/src/mrpcchannel.cc",
+  "file": "/home/aa/chat/mrpc/src/mrpcchannel.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/mrpccontroller.cc.o -c /home/aa/chat/mrpc/src/mrpccontroller.cc",
+  "file": "/home/aa/chat/mrpc/src/mrpccontroller.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/logger.cc.o -c /home/aa/chat/mrpc/src/logger.cc",
+  "file": "/home/aa/chat/mrpc/src/logger.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/src",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/mrpc.dir/zookeeperutil.cc.o -c /home/aa/chat/mrpc/src/zookeeperutil.cc",
+  "file": "/home/aa/chat/mrpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/aa/chat/mrpc/example/callee/friendservice.cc",
+  "file": "/home/aa/chat/mrpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/aa/chat/mrpc/example/friend.pb.cc",
+  "file": "/home/aa/chat/mrpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/aa/chat/mrpc/example/caller/callfriendservice.cc",
+  "file": "/home/aa/chat/mrpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/aa/chat/mrpc/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/aa/chat/mrpc/src/include -I/home/aa/chat/mrpc/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/aa/chat/mrpc/example/friend.pb.cc",
+  "file": "/home/aa/chat/mrpc/example/friend.pb.cc"
+}
+]

@@ -1,0 +1,13 @@
+/home/aa/chat/mrpc/build/CMakeFiles/rebuild_cache.dir
+/home/aa/chat/mrpc/build/CMakeFiles/edit_cache.dir
+/home/aa/chat/mrpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/aa/chat/mrpc/build/src/CMakeFiles/edit_cache.dir
+/home/aa/chat/mrpc/build/src/CMakeFiles/mrpc.dir
+/home/aa/chat/mrpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/aa/chat/mrpc/build/example/CMakeFiles/edit_cache.dir
+/home/aa/chat/mrpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/aa/chat/mrpc/build/example/callee/CMakeFiles/edit_cache.dir
+/home/aa/chat/mrpc/build/example/callee/CMakeFiles/provider.dir
+/home/aa/chat/mrpc/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/aa/chat/mrpc/build/example/caller/CMakeFiles/edit_cache.dir
+/home/aa/chat/mrpc/build/example/caller/CMakeFiles/consumer.dir
